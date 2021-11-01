@@ -1,0 +1,6 @@
+name: Soundcloud 
+icon: url
+fields:
+  src:
+    type: url
+    

@@ -1,0 +1,13 @@
+title: About Page
+fields:
+  text:
+    label: About 
+    type: writer
+  contact:
+    label: Contact Text
+    type: text
+  contactEmail:
+    label: Content
+    type: email
+  
+

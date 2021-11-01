@@ -1,0 +1,26 @@
+Title: IRRELEVANTE FRAGE?
+
+----
+
+Author:
+
+- authors/anna-wiget
+
+----
+
+Tags: Audio
+
+----
+
+Cover:
+
+- >
+  615fe42b22a5b09e9a13d55b_hochkant-p-500.jpeg
+
+----
+
+Summary: Immer wieder sind sie da: Diese Diskussionen und Fragen ohne jemals zu einer abschließenden Antwort zu kommen.
+
+----
+
+Blocks: [{"content":{"text":"<p>Im Jahr 2021 verkauft Salvatore Garau eine unsichtbare Skulptur f\u00fcr 15.000 Euro - und polarisiert damit, w\u00e4hrend sich z.B.auch Damien Hirst an die Non Fungible Tokens oder \u201eKrypto Art\u201c dran- h\u00e4ngt, und wiederum andere K\u00fcnstler*innen eine Demo machen und diese zu einer kollektiven k\u00fcnstlerischen Intervention im \u00f6ffentlichen Raum erkl\u00e4ren.<\/p><p><br><\/p><p>W\u00e4hrend ich meinen Laptop hochfahre schaue ich in die alten Augen von Marcel Duchamp &nbsp;Auch er hat, wie viele andere vor und nach ihm, die Frage des Kunstbegriffs neu definiert.<\/p><p><br><\/p><p>Ist es \u00fcberhaupt relevant zu definieren und damit abzugrenzen was und ab wann etwas Kunst ist und was nicht? Oder ist diese Begrenzung eine Erfindung des Kunstmarkts, von Sammler*innen und Institutionen?<\/p><p>Der Prozess, das Geistige, handwerkliches K\u00f6nnen, das Material, sind dabei wichtige Stichpunkte.<\/p><p><br><\/p><p>Ab wann ist etwas Kunst und ist diese Frage \u00fcberhaupt f\u00fcr uns als K\u00fcnstler*innen wirklich wichtig?<\/p><p><br><\/p><p>Um einer m\u00f6glichen Antwort auf diese Fragen etwas n\u00e4her zu kommen, frage ich - ohne selbst Teil des Gespr\u00e4chs zu sein - die K\u00fcnstler*innen Anna Slobodnik, Jonas Tr\u00f6ger und Simon Tretter;<\/p>"},"id":"982e6791-8939-4281-ac19-1baf09e5826f","isHidden":false,"type":"text"},{"content":{"src":"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/1136846137&color=%23ff5500&autoplay=false&hiderelated=false&showcomments=true&showuser=true&showreposts=false&showteaser=true&visual=true"},"id":"b5a3308f-deb1-4a0f-841d-03fadeb76b1e","isHidden":false,"type":"soundcloud"},{"content":{"text":"<p>Links:<\/p>"},"id":"a2e76d09-1c1c-4af2-b414-6c76db915d91","isHidden":false,"type":"text"},{"content":{"text":"<p><u><a href=\"https:\/\/www.annaslobodnik.de\/\" rel=\"noopener noreferrer nofollow\">https:\/\/www.annaslobodnik.de\/<\/a><a href=\"https:\/\/www.instagram.com\/iamhunesh\/\" rel=\"noopener noreferrer nofollow\"><br><\/a><a href=\"https:\/\/simontretter.com\/\" rel=\"noopener noreferrer nofollow\">https:\/\/simontretter.com\/<\/a><a href=\"https:\/\/www.instagram.com\/iamhunesh\/\" rel=\"noopener noreferrer nofollow\"><br><\/a><a href=\"http:\/\/www.jonastroeger.com\/\" rel=\"noopener noreferrer nofollow\">http:\/\/www.jonastroeger.com\/<\/a><\/u><\/p>"},"id":"126d2d58-bbf1-4dbf-acf1-f445b4d24e14","isHidden":false,"type":"text"}]

@@ -1,0 +1,22 @@
+title: Blog Entry
+fields:
+  author:
+    label: Author
+    type: pages
+    query: kirby.collection('authors')
+    width: 1/2
+  tags:
+    label: Tags
+    type: tags
+    width: 1/2
+  cover:
+    label: Cover image
+    type: files
+  summary:
+    label: Entry Summary
+    type: textarea
+  blocks:
+    label: Content
+    type: blocks
+  
+

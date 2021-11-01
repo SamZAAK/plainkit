@@ -1,0 +1,32 @@
+Title: Hello my name is
+
+----
+
+Author:
+
+- authors/gertruda-gilyte
+
+----
+
+Tags: Text
+
+----
+
+Cover:
+
+- >
+  615fe42b22a5b09e9a13d55b_hochkant-p-500.jpeg
+
+----
+
+Summary:
+
+Gertruda Gilyte reviews the Online-Exhibition „Office Space“. An exhibition about corporate culture and office buildings.
+
+The exhibition was shown on https://www.isthisitisthisit.com/.
+
+Link to Gertrudas work: (link: https://gertrudagilyte.com text: https://gertrudagilyte.com)
+
+----
+
+Blocks: [{"content":{"url":"https:\/\/vimeo.com\/458897946","caption":""},"id":"25aa846b-31fd-4a92-888f-976b7b2e5340","isHidden":false,"type":"video"}]

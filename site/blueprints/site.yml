@@ -1,3 +1,43 @@
 title: Site
-preset: pages
-unlisted: true
+tabs:
+  content:
+    sections:
+      drafts:
+        headline: Drafts
+        type: pages
+        status: draft
+
+      unlisted:
+        headline: Unlisted
+        type: pages
+        status: unlisted
+
+      published:
+        headline: Published Pages
+        type: pages
+        status: listed
+  options:
+    label: Options
+    fields:
+      maintenanceMode:
+        label: Maintenance Mode
+        type: toggle
+      excuse:
+        type: text
+        label: The excuse
+      explanation: 
+        type: text
+        label: describing why
+      logo:
+        label: Logo Footer
+        type: files
+  analytics:
+    columns:
+      - width: 3/4
+        sections:
+          main:
+            type: matomo-main
+      - width: 1/4
+        sections:
+          sidebar:
+            type: matomo-sidebar
